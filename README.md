@@ -2,7 +2,7 @@
 <hr><b> Kaggle Competetion Link: https://www.kaggle.com/c/aptos2019-blindness-detection </b>
 <br><b>Author: </b>Pranay Saha
 <br><b>Date: </b>28/11/2019 
-<br><b></b> DenseNet 201 with Dense Layer (2500 neurons)
+<br><b>Algorithm: </b>Convolutional Neural Netowrks (DenseNet 201 with Dense Layer (2500 neurons))
 <hr>
 <b>Description (as per Kaggle)</b>
 <br>
